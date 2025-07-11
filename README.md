@@ -57,6 +57,3 @@ This project performs scalable exploratory data analysis (EDA) on historical ret
 - PySpark: Monthly revenue grouped into a DataFrame
 - R: Line chart of monthly revenue over time
 
-<img src="preview.png" width="700" />
-
----
